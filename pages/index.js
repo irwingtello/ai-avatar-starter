@@ -102,7 +102,7 @@ const [finalPrompt, setFinalPrompt] = useState('');
   return (
 <div className="root">
   <Head>
-    <title>Family Finder | buildspace</title>
+    <title>Family Finder | dfhcommunity.com</title>
   </Head>
   <div className="container">
     <div className="header">
